@@ -2,6 +2,9 @@
 
 This is a formative assessment to allow students to practice how to write unit tests for a simple JavaScript function using Jest.
 
+# Unit Test Run
+![Image of Unit Test](https://github.com/kenshin657/prosdev-hw-unittest/blob/master/img/Annotation%202020-07-21%20180234.png) 
+
 ## Setup
 
 1.  Fork this repository so that you have your own version of the code.
